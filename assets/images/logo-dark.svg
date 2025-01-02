@@ -1,0 +1,15 @@
+<svg width="190" height="40" viewBox="0 0 190 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0)">
+    <!-- Circle with 'D' Letter -->
+    <circle cx="20" cy="20" r="15" fill="#F25E3D" />
+    <text x="13" y="26" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">D</text>
+    
+    <!-- Bold Text -->
+    <text x="45" y="28" font-family="Arial, sans-serif" font-size="25" font-weight="bold" fill="#F5F5F5">CookEase</text>
+  </g>
+  <defs>
+    <clipPath id="clip0">
+      <rect width="190" height="40" fill="white" />
+    </clipPath>
+  </defs>
+</svg>
