@@ -1,8 +1,8 @@
-# Cook-io
+# CookEase
 
-Cook-io is a responsive web application designed for food enthusiasts who love to explore and save recipes. Built using HTML, CSS, and JavaScript, it leverages the Edamam API to fetch and display a variety of recipes. The website features a mobile-first design approach and offers functionalities like recipe search, dark/light mode, detailed recipe views, and filtering options.
+CookEase is a responsive web application designed for food enthusiasts who love to explore and save recipes. Built using HTML, CSS, and JavaScript, it leverages the Edamam API to fetch and display a variety of recipes. The website features a mobile-first design approach and offers functionalities like recipe search, dark/light mode, detailed recipe views, and filtering options.
 
-[**View Demo in Netlify**](https://cook-io-recipe.netlify.app)
+[**View Demo in Netlify**](https://deepikacookease.netlify.app/)
 
 ## Features
 
